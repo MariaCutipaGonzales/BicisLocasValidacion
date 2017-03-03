@@ -1,5 +1,5 @@
 
-windows.addEventListener("click",function(){
+window.addEventListener("click",function(){
 	validateForm();
 });
 function validateForm(){
