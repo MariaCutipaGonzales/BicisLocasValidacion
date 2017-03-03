@@ -1,3 +1,7 @@
+
+windows.addEventListener("click",function(){
+	validateForm();
+});
 function validateForm(){
 	/* Escribe tú código aquí */
 
